@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, My name is Ratchapon Paratago</h1>
-<h3 align="center">A passionate fullstack developer from Thailand India</h3>
+<h3 align="center">A passionate fullstack developer from Thailand</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f5/8f/e8/f58fe8e19a7e25ddf0c459a3599261d6.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratchapon-p&label=Profile%20views&color=0e75b6&style=flat" alt="ratchapon-p" /> </p>
 
